@@ -8,7 +8,7 @@
 					<router-view></router-view>
 
 					<div class="d-flex justify-content-end">
-						<a href="https://github.com/kjmagic13/florida-evacuation-shelters" class="small text-muted" target="_blank">
+						<a href="https://github.com/mccarthyk/florida-evacuation-zones" class="small text-muted" target="_blank">
 							<i class="fa fa-fw fa-github"></i>
 						</a>
 					</div>
